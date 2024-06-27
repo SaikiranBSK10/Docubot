@@ -28,7 +28,7 @@ Connectivity Tool: ngrok
 # Installation
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SaikiranBSK10/Docubot.git
    cd Docubot
   
 2. Install the required dependencies
